@@ -2,5 +2,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Print("whatsup Doreen")
+	fmt.Print("Hello Doreen Myers ")
+	fmt.Print("Hello Doreen Sublet ")
 }
